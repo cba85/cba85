@@ -1,6 +1,6 @@
 # 👋 Bonjour
 
-I teach web development at [DOGMA10](https://dogma10.com)
+I teach web and mobile development - [DOGMA10](https://dogma10.com)
 
 ## 🛠️ Skills
 
