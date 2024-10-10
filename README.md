@@ -10,6 +10,6 @@ I teach web and mobile development - [DOGMA10](https://dogma10.com)
 * Mobile : Ionic Framework, Nativescript
 * Tools : Shell (Bash, Zsh), Git + Github, Markdown
 * Devops : Cloudflare, AWS, [Docker](https://github.com/cba85?tab=repositories&language=dockerfile), Dokku, Continuous Integration (Github Actions), Ubuntu, HTTP server (Apache, Nginx)
-* Project management : agile (XP, Scrum, Kanban), Trello, Jira, Notion
+* Project management : agile (XP, Scrum, Kanban)
 * Langages : Français (native), English
 * Common sense
