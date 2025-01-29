@@ -1,4 +1,4 @@
-# Bonjour
+# Bonjour 👋
 
 I'm a french developer currently teaching web and mobile development.
 
