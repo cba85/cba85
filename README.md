@@ -2,7 +2,7 @@
 
 I'm a french developer currently teaching web and mobile development.
 
-[DOGMA10](https://dogma10.com)
+[Read more](https://clementbarbaza.com)
 
 ## Skills
 
