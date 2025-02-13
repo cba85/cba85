@@ -10,7 +10,7 @@ My preference and primary expertise these days is concentrated on web languages:
 * **Backend**: [PHP](https://github.com/cba85?tab=repositories&language=php) (Laravel, Wordpress) and Node.js (Express.js, Hono.js, Eleventy.js, Adonis.js)
 * **Databases** : SQL (MySQL, PostgreSQL, SQLite)
 
-[Read more](https://clementbarbaza.com)
+[Read more](https://clementbarbaza.com/about)
 
 ## Projects showcase
 
