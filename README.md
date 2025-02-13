@@ -14,7 +14,7 @@ My preference and primary expertise these days is concentrated on web languages:
 
 ## Projects showcase
 
-Check **all** my current projects on my [now page](https://clementbarbaza.com/now).
+Check my current projects on my [now page](https://clementbarbaza.com/now) and all my projects on my [portfolio](https://p.clementbarbaza.com).
 
 | Name | Description | Date |
 |------|-------------|----------|
@@ -25,5 +25,3 @@ Check **all** my current projects on my [now page](https://clementbarbaza.com/no
 | ⚛️ [Electron webview](https://github.com/cba85/electron-webview) | Simple electron webview with cool features | 2017 |
 | 🎨 [Cool colors](https://cba85.github.io/coolcolors/) | Find cool colors in hexadecimal and RGB for your projects | 2017 |
 | ⭐️ [Github stars](https://github.com/cba85?tab=stars) | Lists of projects I like to use | 2013 |
-
-Check **all** my projects on my [portfolio](https://p.clementbarbaza.com).
