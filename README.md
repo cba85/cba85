@@ -1,3 +1,5 @@
+# Hello / Bonjour 👋
+
 I'm a french web developer currently teaching web and mobile development.
 
 I work with proven technologies to produce useful, stable and durable software.
