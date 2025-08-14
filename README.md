@@ -10,4 +10,4 @@ My preference and primary expertise these days is concentrated on web languages:
 
 ## Projects showcase
 
-Check my current projects on my [now page](https://clementbarbaza.com/now) and all the projects I've done on my [portfolio](https://portfolio.clementbarbaza.com).
+Check what I'm doing on my [now page](https://clementbarbaza.com/now) and all the projects I've done on my [portfolio](https://portfolio.clementbarbaza.com).
